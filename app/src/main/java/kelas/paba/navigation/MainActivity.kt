@@ -14,7 +14,12 @@ import androidx.compose.ui.tooling.preview.Preview
 import kelas.paba.navigation.ui.theme.NavigationTheme
 import androidx.appcompat.app.AppCompatActivity
 
+
+
 class MainActivity : AppCompatActivity() {
+
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
